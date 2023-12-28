@@ -1,0 +1,46 @@
+img{
+    height: 160px;
+}
+#linkbutton{
+    border-radius: 10px;
+    color: blue;
+}
+#contactdiv{
+    margin-left: 15%;
+    background-color: lightgray;
+    border-radius: 70px;
+    height: 440px;
+    width: 1090px;
+}
+#Texth1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transform: translateY(175px);
+    margin-left: 50px;
+}
+#Text2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    transform: translateY(190px);
+    margin-left: 50px;
+}
+form{
+    transform: translateY(-45px);
+    margin-left: 590px;
+}
+#Message{
+    height: 90px;
+    width: 350px;
+    border-radius: 20px;
+}
+.intext{
+    width: 350px;
+    border-radius: 20px;
+}
+#sendbutton{
+    margin-left: 98px;
+    width: 140px;
+    height: 50px;
+    border-radius: 15px;
+    font-family:cursive;
+    color: blue;
+    background-color: lightgreen;
+}
